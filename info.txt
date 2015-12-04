@@ -1,0 +1,19 @@
+
+
+Change files: 
+  packge.json
+    App name
+  bin/www
+    Debug app name
+  poll.js
+    Change this to your model
+  public/javascripts/app.js  
+    Change module name
+  views/header.ejs
+    Project name
+    
+  
+Env vars:
+export TWITTER_CONSUMER_KEY=
+export TWITTER_CONSUMER_SECRET=
+export BASE_URL=http://localhost:3000

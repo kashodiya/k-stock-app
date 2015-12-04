@@ -1,0 +1,24 @@
+{
+  "name": "k-temp-app",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Ashodiya",
+    "Kaushik <Kaushik.Ashodiya@sf.frb.org>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/kashodiya/k-fcc-vote",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "angular-chart.js": "~0.8.6",
+    "Chart.js": "~1.0.2"
+  }
+}
